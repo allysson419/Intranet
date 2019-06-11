@@ -1,0 +1,9 @@
+2019-05-30 14:08:10,130 WARN  [DefaultSoapUICore] Missing folder [C:\Users\allysson.nunes\ext] for external libraries
+2019-05-30 14:08:10,643 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\allysson.nunes\soapui-settings.xml]
+2019-05-30 14:08:11,468 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\allysson.nunes\intellij-soapui-workspace.xml]
+2019-05-30 14:19:02,738 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\allysson.nunes\intellij-soapui-workspace.xml]
+2019-05-30 14:19:02,738 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\allysson.nunes\soapui-settings.xml]
+2019-05-30 14:31:22,071 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\allysson.nunes\intellij-soapui-workspace.xml]
+2019-05-30 14:31:22,081 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\allysson.nunes\soapui-settings.xml]
+2019-05-30 14:35:19,839 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\allysson.nunes\intellij-soapui-workspace.xml]
+2019-05-30 14:35:19,862 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\allysson.nunes\soapui-settings.xml]

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Documentall-FontEnd:war">
+    <output-path>$PROJECT_DIR$/Documentall-FontEnd/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Documentall-FontEnd</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Sistema.war">
+      <element id="artifact" artifact-name="Documentall-FontEnd:war exploded" />
+    </root>
+  </artifact>
+</component>
